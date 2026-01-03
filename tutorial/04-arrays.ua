@@ -1,3 +1,5 @@
+# https://www.uiua.org/tutorial/Arrays
+
 # Challenge 1: Write a program that adds an array to its reverse.
 add on rev
 + ⟜⇌

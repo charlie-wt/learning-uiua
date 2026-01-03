@@ -1,3 +1,5 @@
+# https://www.uiua.org/tutorial/Math%20and%20Comparison
+
 # Challenge 1: Write a program that for arguments A, B, and C, computes (A + B) × C.
 mul add
 × +

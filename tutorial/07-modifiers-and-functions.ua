@@ -1,3 +1,5 @@
+# https://www.uiua.org/tutorial/Modifiers%20and%20Functions
+
 # Challenge 1: Write a program that calculates the product of the first n positive
 #              integers.
 reduce mul add 1 range

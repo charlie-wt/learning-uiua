@@ -1,3 +1,5 @@
+# https://www.uiua.org/tutorial/Basic%20Data%20Manipulation%20and%20Formatting
+
 # Challenge 1: Write a program that adds 3 numbers.
 add add
 ++
